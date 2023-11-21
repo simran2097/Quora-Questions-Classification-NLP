@@ -38,3 +38,10 @@ Respectful" policy
 5. Punctuation Count: Tracking the usage of punctuation marks within the questions.
 6. Title and Uppercase Words Count: Detecting the count of words in uppercase or within the title of the question.
 7. Average Word Length: Calculating the average length of words used in a question.
+
+
+## Implemented Models:
+1. **Logistic Regression**
+2. **Naive Bayes**
+3. **Convolutional Neural Network (CNN)**
+4. **BERT Implementation** in a Streamlit application for real-time question classification.
