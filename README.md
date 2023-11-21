@@ -45,3 +45,12 @@ Respectful" policy
 2. **Naive Bayes**
 3. **Convolutional Neural Network (CNN)**
 4. **BERT Implementation** in a Streamlit application for real-time question classification.
+
+## Recommendations
+1. Further model fine-tuning and optimization could enhance the performance of Logistic Regression and Naive Bayes models.
+2. Exploring lightweight NLP models for efficient text classification might be beneficial for large-scale applications.
+3. Continuous monitoring and improvement of the models' performance against evolving data trends are essential.
+
+## Conclusion
+This project showcased the efficacy of various NLP models in categorizing Quora questions. While each model had its strengths and weaknesses, the CNN, Logistic Regression, Naive Bayes, and the Streamlit application with DistilBERT offered valuable insights into classifying sincere and insincere questions on Quora.
+
