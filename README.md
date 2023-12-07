@@ -47,14 +47,12 @@ Respectful" policy
 4. **BERT Implementation** in a Streamlit application for real-time question classification.
 
 # STREAMLIT APPLICATION BERT IMPLEMENTATION
-<img width="529" alt="image" src="https://github.com/simran2097/Quora_Insincere_Questions_Classification/assets/47267975/b0ad38eb-29a5-4609-9f07-5b8f82e10f7d">
-
-<img width="529" alt="image" src="https://github.com/simran2097/Quora_Insincere_Questions_Classification/assets/47267975/ceddbafa-2f73-413b-863d-60d339b916ab">
+<img width="1176" alt="Screenshot 2023-12-06 at 9 19 13 PM" src="https://github.com/simran2097/Quora_Insincere_Questions_Classification/assets/47267975/86d0ba01-3ebb-4afa-9754-002b0a0eb0a8">
 
 # OUTPUT:
-<img width="529" alt="image" src="https://github.com/simran2097/Quora_Insincere_Questions_Classification/assets/47267975/e12f7a7c-45f7-47a4-9bd3-fcede41cd020">
+<img width="1440" alt="Screenshot 2023-12-06 at 9 17 12 PM" src="https://github.com/simran2097/Quora_Insincere_Questions_Classification/assets/47267975/5e375563-778f-4948-a7a2-f273ce698e1b">
 
-<img width="529" alt="image" src="https://github.com/simran2097/Quora_Insincere_Questions_Classification/assets/47267975/4d2b9afe-84df-4bf6-a24a-0cc1071b9b6b">
+<img width="1440" alt="Screenshot 2023-12-06 at 9 16 39 PM" src="https://github.com/simran2097/Quora_Insincere_Questions_Classification/assets/47267975/3cf61b79-7958-4676-842f-2fe4e6ac7b94">
 
 
 
