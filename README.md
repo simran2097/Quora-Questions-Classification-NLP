@@ -46,6 +46,19 @@ Respectful" policy
 3. **Convolutional Neural Network (CNN)**
 4. **BERT Implementation** in a Streamlit application for real-time question classification.
 
+# STREAMLIT APPLICATION BERT IMPLEMENTATION
+<img width="800" alt="image" src="https://github.com/simran2097/Quora_Insincere_Questions_Classification/assets/47267975/b0ad38eb-29a5-4609-9f07-5b8f82e10f7d">
+
+<img width="800" alt="image" src="https://github.com/simran2097/Quora_Insincere_Questions_Classification/assets/47267975/ceddbafa-2f73-413b-863d-60d339b916ab">
+
+# OUTPUT:
+<img width="800" alt="image" src="https://github.com/simran2097/Quora_Insincere_Questions_Classification/assets/47267975/e12f7a7c-45f7-47a4-9bd3-fcede41cd020">
+
+<img width="800" alt="image" src="https://github.com/simran2097/Quora_Insincere_Questions_Classification/assets/47267975/4d2b9afe-84df-4bf6-a24a-0cc1071b9b6b">
+
+
+
+
 ## Recommendations
 1. Further model fine-tuning and optimization could enhance the performance of Logistic Regression and Naive Bayes models.
 2. Exploring lightweight NLP models for efficient text classification might be beneficial for large-scale applications.
